@@ -1,0 +1,33 @@
+
+# Compiled C/C++ files
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.pdb
+
+# Build directories
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
